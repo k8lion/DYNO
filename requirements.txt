@@ -1,0 +1,8 @@
+matplotlib
+numpy
+torch
+torchvision
+transformers
+h5py
+git+https://github.com/RobustBench/robustbench.git
+git+https://github.com/SuReLI/NeurOps#egg=neurops&subdirectory=pytorch
